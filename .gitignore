@@ -1,0 +1,3 @@
+#Se deben incluir todos los directorios que tengan un WAR o aar (excepto la plantilla de axis2)
+test/
+
